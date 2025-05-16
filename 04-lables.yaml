@@ -2,7 +2,7 @@ kind: Pod
 apiVersion: v1
 metadata:
  name: k8lables
- lables:
+ labels:
     project: expense
     component: backend
     environment: dev
