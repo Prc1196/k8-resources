@@ -6,6 +6,6 @@ metadata:
    buildURL: "https://jenkins.com/expense/job/backend/23"
    imageregistry: "https://hub.docker.com/"
 spec:
-containers:
- - name: k8nginx
-   image: nginx
+  containers:
+  - name: k8nginx
+    image: nginx
