@@ -2,7 +2,7 @@ apiVersion: v1
 kind: Pod
 metadata:
     name: k8nginx
-    Namespace: k8expense
+    namespace: k8expense
 spec:
   # one pod can contain multiple containers
   containers: 
