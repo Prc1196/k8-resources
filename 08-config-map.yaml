@@ -1,7 +1,7 @@
 kind: ConfigMap
 apiVersion: v1
 metadata:
- name: myconfig
+ name: k8myconfig
 data:
   course: "kubernetes"
-  duration: "25hrs"
+  duration: "27hrs"
